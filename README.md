@@ -1,4 +1,4 @@
-🔥 lkxsecurity.ru | the most reliable Stresser | Best API on the market. | Origin Selection | Botnet methods 🚰
+🔥 lkxstress.cc | the most reliable Stresser | Best API on the market. | Origin Selection | Botnet methods 🚰
 
 Features:
  - 15GB+ AMP per concurrent.
@@ -10,4 +10,4 @@ Features:
 - Bypass for things like Cloudflare UAM, Hcaptcha, Recaptcha, OVH, NFO and more! / Bypasses for things like Cloudflare UAM, Hcaptcha, Recaptcha, OVH, NFO and more!
 
 Kind regards,
-@fvr1331 | https://lkxsecurity.ru/
+@fvr1331 | https://lkxstress.cc
